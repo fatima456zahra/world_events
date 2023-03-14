@@ -1,0 +1,145 @@
+.about_banner1_heading h2 {
+    margin-top: 200px;
+    font-size: 140px;
+    color: #EE6435;
+    font-family: 'bad-grunge'
+}
+.about_banner1_heading h3 {
+    font-size: 50px;
+    color: #EE6435;
+    font-family: 'bad-grunge';
+    margin-bottom: 300px;
+}
+.about_banner2{
+    background-color: black;
+    background-position: 75%;
+    background-size: cover;
+}
+.about_banner2_heading h2 {
+    font-family: 'bad-grunge';
+    font-size: 75px;
+    color: #000;
+    line-height: 0.6; 
+    margin-bottom: 23px;
+    width: 62%
+}
+.about_banner2_heading h2 span{
+    font-family: 'bad-grunge';
+    font-size: 55px;
+    color: white;
+    line-height: 0.6; 
+}
+.about_banner2_heading p {
+    font-size: 20px;
+    color: white;
+    font-family: 'Coda';
+    line-height: 2em;
+    padding-top: 26px;
+    width: 62%;
+}
+.about_banner3{
+    background-color: black;
+    background-position: 25%;
+}
+
+.about_banner3_heading h2{
+    font-family: 'bad-grunge';
+    font-size: 75px;
+    color: #000;    
+}
+.about_banner3_heading h2 span{
+    font-family: 'bad-grunge';
+    font-size: 55px;
+    color: white;     
+}
+.about_banner3_heading p{
+    font-size: 20px;
+    color: white;
+    font-family: 'Coda';
+    padding-left: 400px;  
+    line-height: 1.6em;
+}
+
+.contact_banner1_heading h2{
+    font-size: 140px;
+    text-align: center;
+    color: #ee6435;
+    padding-top: 0;
+    padding-bottom: 160px;
+    font-family: 'bad-grunge';
+}
+
+.contact_banner1_text h2{
+    font-size: 100px;
+    color: white;
+    font-family: 'bad-grunge';
+}
+.contact_banner1_img img{
+    height: auto;
+}
+.contact_banner1_address h4{
+    color: white;
+    font-size: 25px;
+    font-family: 'Coda';
+}
+.contact_banner1_address h3 {
+    color: #fff;
+    font-size: 30px;
+    font-family: 'bad-grunge';
+} 
+.contact_banner1_getintouch p {
+    color: white;
+    font-size: 20px;
+    padding: 0 200px;
+    line-height: 1.4em;
+    margin-bottom: 80px;
+}
+div.et_pb_section.et_pb_section_0 {
+    background-position: top;
+    overflow: hidden;
+    padding-bottom: 0px !important;
+    padding-top: 120px !important;
+}
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    width: 90%;
+    padding: 10px;
+    background: #FFFFFF;
+    border-radius: 49px;
+    height: 65px;
+    display: flex;
+    padding-left: 30px !important;
+    font-size: 16px;
+}
+textarea.wpcf7-form-control.wpcf7-textarea {
+    resize: none;
+    background: #FFFFFF;
+    border-radius: 30px;
+    padding: 10px 30px !important;
+    width: 90%;
+    font-size: 16px;
+    height: 105px;
+}
+input.wpcf7-form-control.has-spinner.wpcf7-submit {
+    padding: 10px 30px;
+    font-size: 20px;
+    font-family: 'Coda';
+    color: #fff;
+    background: #EE6435;
+    border-radius: 100px;
+    font-weight: 400;
+    border: none;
+    cursor: pointer;
+}
+.book_now_contact{
+    padding: 10px 30px;
+    font-size: 20px;
+    font-family: "Coda";
+    color: #fff;
+    background: #ee6435;
+    border-radius: 100px;
+    font-weight: 400;
+    border: none;
+}
+
+
+
